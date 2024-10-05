@@ -1,1 +1,2 @@
-*.latex diff=tex
+*.tex diff=tex
+*.tex linguist-detectable=true
